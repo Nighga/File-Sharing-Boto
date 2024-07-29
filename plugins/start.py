@@ -88,7 +88,7 @@ async def start_command(client: Client, message: Message):
         reply_markup = InlineKeyboardMarkup(
             [          
                 [
-                    InlineKeyboardButton( "Main Channel", url = "https://t.me/MRLINKBACKUP" ),
+                    InlineKeyboardButton( "Main Channel", url = "https://t.me/+MVB7dQRIKZc2MTlh" ),
                     InlineKeyboardButton("Source Code", url = "https://t.me/+nrNgQ7sT3XQxZTc1")
                 ], [ InlineKeyboardButton("Bot Update", url = "https://t.me/Publicfille") ],
                 [
@@ -128,7 +128,7 @@ async def not_joined(client: Client, message: Message):
         [
            InlineKeyboardButton(
                 "Join Channel",
-                url = "https://t.me/+-weIgcLJ1M45MzVk"),
+                url = "https://t.me/+MVB7dQRIKZc2MTlh"),
             InlineKeyboardButton(
                 "Join Channel",
                 url = client.invitelink)
